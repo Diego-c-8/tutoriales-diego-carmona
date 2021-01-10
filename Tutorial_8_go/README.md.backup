@@ -128,10 +128,6 @@ ahora vamos a programar holamundo
 	}	
 ```
 
-para correr usamos
 
-```
-go run hello.go
-```
 
 
