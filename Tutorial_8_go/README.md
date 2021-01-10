@@ -14,6 +14,14 @@ Ventajas :
 	-correcion de codigo automatizada 
 	-concurrencia
 	-extensa biblioteca estandar, sobre todo para http y tareas de red
+	
+	
+	
+	
+	
+	
+	
+	
 desventajas:
 	-no soporta tipos genéricos
 	-orientado a objetos
